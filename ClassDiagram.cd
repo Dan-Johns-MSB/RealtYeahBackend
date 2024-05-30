@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RealtYeahBackend.Controllers.ClientsController">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIgiAAAQAAAAIAAAAAAAAEQAAAAACAAABAABiQBgEAA=</HashCode>
+      <FileName>Controllers\ClientsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealtYeahBackend.Controllers.ClientsStatusController">
+    <Position X="2.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QAACACAAAAAAAQAAJAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\ClientsStatusController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealtYeahBackend.Controllers.ClientsStatusesAssignmentsController">
+    <Position X="4.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AACCAAAAAAEAAAAAAAAIAAAAIAAAAAAAAAIAAAQAAAA=</HashCode>
+      <FileName>Controllers\ClientsStatusesAssignmentsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealtYeahBackend.Controllers.DocumentsController" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAAAAgAAAACAAAAAAAAAAAAAAAAAgBAAAAAAA=</HashCode>
+      <FileName>Controllers\DocumentsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealtYeahBackend.Controllers.EmployeesController">
+    <Position X="0.5" Y="5.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>QAACAAAgAAAAgQAAAEACBAAAECAAgAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Controllers\EmployeesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealtYeahBackend.Controllers.EmployeesStatusController">
+    <Position X="3.25" Y="5.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAIAECAAAAIAAAgAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Controllers\EmployeesStatusController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealtYeahBackend.Controllers.EstateObjectsController">
+    <Position X="7.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAQgEAIAQAAAAAEgAAAAAggAAAAAgBAAACAAAgAA=</HashCode>
+      <FileName>Controllers\EstateObjectsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealtYeahBackend.Controllers.ObjectsStatusController" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAAAAAAAAAAAgAAIAAAAAAAAAAAAAgAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\ObjectsStatusController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealtYeahBackend.Controllers.OperationsController">
+    <Position X="5.75" Y="5.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAABwADAAAIAFCAARQAAAIAAAACAAAAAACAAQAAI=</HashCode>
+      <FileName>Controllers\OperationsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealtYeahBackend.Controllers.OperationsStatusController">
+    <Position X="8.25" Y="5.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAABAAAAAEBAAACAAAAAAgAAAAAAAAABA=</HashCode>
+      <FileName>Controllers\OperationsStatusController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealtYeahBackend.Controllers.PublicKeyController" Collapsed="true">
+    <Position X="10.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Controllers\PublicKeyController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealtYeahBackend.Controllers.UsersController" Collapsed="true">
+    <Position X="12.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgACAIAAAAAAASCEAABAAAIAAAABAAAAMAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\UsersController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
